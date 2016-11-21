@@ -6,12 +6,12 @@ ROS (Robot operating system) icin olusturulmus test kodlarini icerir.
 
 ## UYGYLAMAYI CALISTIRMAK ICIN
 
-Ilk once programi arduinoya yukleyiniz.
-sonra sirayla 
+Ilk once programi arduinoya yukleyiniz.<br>
+sonra sirayla <br>
 
-==> 'roscore' 
-==> 'rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 _baud:=115200' //burada _port sizin ardunionuzun balandigi porttur.
-==> 'rostopic echo gyro' 
+==> 'roscore' <br>
+==> 'rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 _baud:=115200' //burada _port sizin ardunionuzun balandigi porttur.<br>
+==> 'rostopic echo gyro' <br>
 
 diyerek uygulamayi calistirabilirisiniz.
 
