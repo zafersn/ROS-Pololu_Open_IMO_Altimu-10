@@ -4,7 +4,7 @@ Bu uygulama pololu AltIMU-10 v4 Gyro, Accelerometer, Compass, and Altimeter (L3G
 ROS (Robot operating system) icin olusturulmus test kodlarini icerir. 
 <br><br>
 
-## UYGYLAMAYI CALISTIRMAK ICIN
+## UYGULAMAYI CALISTIRMAK ICIN
 
 Ilk once programi arduinoya yukleyiniz.<br>
 sonra sirayla <br>
